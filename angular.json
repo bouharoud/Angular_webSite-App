@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "initshop"
+  "defaultProject": "initshop",
+  "cli": {
+    "analytics": "3308cec6-3360-49e2-b134-ca4440014014"
+  }
 }

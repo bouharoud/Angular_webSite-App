@@ -8,6 +8,7 @@
 -----------------------------------------------------------------------------------
 /* local fonts */
 
+
 @font-face {
     font-family: "Gilroy-Bold ☞";
     font-style: normal;
@@ -6819,6 +6820,7 @@ ul.amount li {
     position: absolute;
     left: -9999px;
 }
+
 
 .custom-radio input[type="radio"]:checked+label,
 .custom-radio input[type="radio"]:not(:checked)+label {

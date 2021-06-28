@@ -34,4 +34,5 @@ exports.config = {
       }
     }));
   }
+
 };
